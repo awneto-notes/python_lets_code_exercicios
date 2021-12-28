@@ -1,0 +1,1 @@
+print(*[9*x for x in range(1,10)])
